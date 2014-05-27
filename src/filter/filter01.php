@@ -1,3 +1,3 @@
-<?php
-echo 'hola que hace';
-var_dump($hola);
+<?php 
+echo 'todos los cambios';
+var_dump($object);
