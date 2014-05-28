@@ -1,5 +1,11 @@
 .......esto es otro archivo creado desde la get de github
 
+<<<<<<< HEAD
 ............
 ............
 cambiando xxxxxxxxxxxxxxxx.........mas na
+=======
+
+todo es un cambio desde xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>>>>>>> 032a50fedd7ce7b3d90d5102701f58b1f7285d1d
